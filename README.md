@@ -12,4 +12,4 @@ I’m looking to collaborate on games/music programs/tools for mod/game devs :)
 📫 mail me at : Rafallauterbach@gmail.com
 
 
-Some of my past projects include voronori map generator for paradox games maps, few websites, driver for usb RNG device, radio player in Qt.
+Some of my past projects include simple voronori map generator for paradox games map-mods, few websites, driver for usb RNG device, radio player in Qt.
